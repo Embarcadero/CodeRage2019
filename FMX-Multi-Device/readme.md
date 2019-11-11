@@ -1,3 +1,5 @@
+Be sure to register to catch the videos and the [Round Table Q&A on Thursday the 14th](https://register.gotowebinar.com/register/576806400862390274).
+
 Here is a taste of the topics covered under this topic by our amazing MVPs
 
 *   **The FDK Way of creating visual Controls** with Frank Lauter
